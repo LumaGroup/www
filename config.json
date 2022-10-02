@@ -1,0 +1,6 @@
+{
+   "baseURL": "http://example.org/",
+   "languageCode": "en-us",
+   "title": "Luma Group",
+   "theme": "hugo-bearblog"
+}
